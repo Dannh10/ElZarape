@@ -67,7 +67,7 @@
                 var username = document.getElementById('username').value;
                 var password = document.getElementById('password').value;
 
-                fetch('login/users.json')
+                fetch('users.json')
                         .then(response => {
                             if (!response.ok) {
                                 throw new Error('No se responde ' + response.statusText);
