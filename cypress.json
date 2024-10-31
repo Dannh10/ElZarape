@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://dannh10.github.io/ElZarape/", // Cambia esto a la URL que necesites
+  "viewportWidth": 1280,
+  "viewportHeight": 720,
+  "video": false
+}
